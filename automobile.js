@@ -22,7 +22,6 @@ set size (size) {
 }
 
 get numberOfDoors () {
-
   return this._numberOfDoors;
 }
 
